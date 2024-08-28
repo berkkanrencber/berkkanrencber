@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @berkkanrencber
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software developing
 - 📫 How to reach me berkkanrencber@gmail.com
 
 <!---
